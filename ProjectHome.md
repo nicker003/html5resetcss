@@ -1,0 +1,1 @@
+A reset stylesheet including HTML5 elements created by Rich Clark (http://richclarkdesign.com) from HTML5 Doctor (http://html5doctor.com)
